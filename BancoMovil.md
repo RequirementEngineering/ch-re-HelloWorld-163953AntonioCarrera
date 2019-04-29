@@ -18,7 +18,15 @@ BancoMovil
 
 Referencias
 
+https://www.banorte.com/wps/portal/banorte
+https://www.banamex.com/
+https://www.banregio.com/
+https://www.bancomer.com/
+https://www.hsbc.com.mx/
+
 Visión general
+
+Con la realizacion  de nuestra app buscamos la reduccion de filas y acumulamiento de clientes en la sucursal ya que la mayoria son bancos pequenos, para solo hacer tramites que hay veces que son muy cortos y es inutil esperar tanto tiempo,asi se agilizara todo lo que tenga que ver con el banco, asi, beneficiando al banco como a los clientes.
 
 Descripción general
 
