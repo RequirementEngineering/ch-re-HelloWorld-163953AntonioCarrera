@@ -19,10 +19,18 @@ BancoMovil
 Referencias
 
 https://www.banorte.com/wps/portal/banorte
+
 https://www.banamex.com/
+
 https://www.banregio.com/
+
 https://www.bancomer.com/
+
 https://www.hsbc.com.mx/
+
+https://www.bancoppel.com/main/index.html
+
+https://www.santander.com.mx/
 
 Visión general
 
@@ -64,7 +72,7 @@ Funciones del Producto
 
 Características del Usuario
 
-Hay 3 tipos de usuarios
+Hay 4 tipos de usuarios
 
 
 1.	Cliente: El usuario realizara el trámite necesario desde la app instalada en su Smartphone o tableta.
@@ -72,6 +80,8 @@ Hay 3 tipos de usuarios
 2.	Ejecutivo: El ejecutivo recibirá la notificación sobre el tramite solicitado por el cliente y lo realizara lo más pronto posible.
 
 3.	Repartidor: La función de este es repartir las tarjetas que soliciten por robo o extravio,este solo repartirá a las zonas cercanas a la sucursal donde fue expedida la misma.
+
+4.  Gerente:la funcion del gerente es checar movimientos y todo los tramites realizados ya sean diariamente,semanalmente o mensualmente segun lo requiera el banco.
 
 Restricciones
 
