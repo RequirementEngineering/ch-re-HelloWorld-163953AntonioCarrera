@@ -72,7 +72,7 @@ Funciones del Producto
 
 Características del Usuario
 
-Hay 4 tipos de usuarios
+Hay 5 tipos de usuarios
 
 
 1.	Cliente: El usuario realizara el trámite necesario desde la app instalada en su Smartphone o tableta.
@@ -82,6 +82,8 @@ Hay 4 tipos de usuarios
 3.	Repartidor: La función de este es repartir las tarjetas que soliciten por robo o extravio,este solo repartirá a las zonas cercanas a la sucursal donde fue expedida la misma.
 
 4.  Gerente:la funcion del gerente es checar movimientos y todo los tramites realizados ya sean diariamente,semanalmente o mensualmente segun lo requiera el banco.
+
+5.  CONDUSEF.La funcion de la CONDUSEF es checar que el cliente no se encuentre en el buro de credito,en caso de que el cliente este o no este en buro,este le notificara al banco la investigacion sobre el cliente para decidir si es apto o no para los prestamos.
 
 Restricciones
 
@@ -149,3 +151,32 @@ Seguridad
 Mantenimiento
 
 	A este sistema se le dara mantenimiento dos veces por semana,con un software programado para ello.
+
+
+Proceso de Elicitacion
+
+El proceso de elititacion se realizo a travez de una entrevista con un ejecutivo del banco.
+
+el ejecutivo comenta que dia a dia se llenan las salas de espera por motivos de tramites que se tienen que hacer directo en el banco.
+
+"Necesitamos primeramente un sitema que permita realizar diversos tramites desde la aplicacion para telefono o tablet.
+
+Necesitamos obviamente que el cliente cuente con correo electronico y sea cliente de nuestro banco.
+
+Necesito tener un sistema para nuestras computadoras donde se reciban las peticiones de tramite de nuestros clientes.
+
+El sistema debe enviarme una alerta para saber que se necesita realizar un tramite 
+
+El sistema deve dividir los tramites, es decir:
+
+-solicitudes de prestamo
+
+-citas
+
+-solicitud de hipoteca
+
+-reposicion de tarjetas
+
+-reporte de robo o extravio ,etc.
+
+Tambien se necesita que lleve un contador para saber cuales tramites son los que mas se realizan en nuestra sucursales y al final de la semana nos de un reporte de todos los tramites realizados"
