@@ -182,3 +182,31 @@ El sistema deve dividir los tramites, es decir:
 -reporte de robo o extravio ,etc.
 
 Tambien se necesita que lleve un contador para saber cuales tramites son los que mas se realizan en nuestra sucursales y al final de la semana nos de un reporte de todos los tramites realizados"
+
+REQUERIMIENTOS FUNCIONALES
+
+Cliente:
+
+-Inicio de sesión.
+
+-Tramites que se desean realizar
+
+-Consultas de saldos
+
+-Consultas de numeros telefonicos y ubicaciones de los distintos bancos
+
+Empresa:
+
+-Inicio de sesión.
+
+-Sistema para ejecutivos donde llegaran y se almacenaran los tramites pedidos por el cliente
+
+-Base de datos donde se almacenaran todos y cada uno de los tramites ya concretados y los que aun estan en revision.
+
+REQUERIMIENTOS NO FUNCIONALES
+
+-Estabilidad en almacenamiento y procesamiento
+
+-La seguridad tanto para el cliente como para los ejecutivos en cuestion a proteccion de los datos al momentos del ingreso en usuario y contrasena para evitar el acceso a gente que no debe.
+
+-Mantenimiento del software y nuestra aplicacion ,esta estara programada para darle mantenimento automaticamente.
