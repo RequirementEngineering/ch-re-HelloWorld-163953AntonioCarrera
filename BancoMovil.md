@@ -83,7 +83,7 @@ Hay 5 tipos de usuarios
 
 4.  Gerente:la funcion del gerente es checar movimientos y todo los tramites realizados ya sean diariamente,semanalmente o mensualmente segun lo requiera el banco.
 
-5.  CONDUSEF.La funcion de la CONDUSEF es checar que el cliente no se encuentre en el buro de credito,en caso de que el cliente este o no este en buro,este le notificara al banco la investigacion sobre el cliente para decidir si es apto o no para los prestamos.
+5.  Buro de Credito.La funcion del buro de credito es checar que el cliente no se encuentre en su base de datos con adeudo en alguna institucion bancaria,inmobiliaria etc,,en caso de que el cliente este o no este en buro,este le notificara al banco la investigacion sobre el cliente para decidir si es apto o no para los prestamos.
 
 <img src="https://raw.githubusercontent.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/master/Use%20Case/bancomovil.png">
 
