@@ -85,8 +85,7 @@ Hay 5 tipos de usuarios
 
 5.  CONDUSEF.La funcion de la CONDUSEF es checar que el cliente no se encuentre en el buro de credito,en caso de que el cliente este o no este en buro,este le notificara al banco la investigacion sobre el cliente para decidir si es apto o no para los prestamos.
 
-<img src=https://raw.githubusercontent.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/master/Use%20Case/bancomovil.png
->
+<img src="https://raw.githubusercontent.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/master/Use%20Case/bancomovil.png">
 
 Restricciones
 
