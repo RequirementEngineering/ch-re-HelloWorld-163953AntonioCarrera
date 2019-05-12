@@ -210,3 +210,16 @@ REQUERIMIENTOS NO FUNCIONALES
 -La seguridad tanto para el cliente como para los ejecutivos en cuestion a proteccion de los datos al momentos del ingreso en usuario y contrasena para evitar el acceso a gente que no debe.
 
 -Mantenimiento del software y nuestra aplicacion ,esta estara programada para darle mantenimento automaticamente.
+
+
+BPM
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/BancoMovil.jpg">
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Bancos%20Disponibles.jpg">
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Datos%20a%20Ingresar.jpg">
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Tramites%20Disponibles.jpg">
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Analisis.jpg">
