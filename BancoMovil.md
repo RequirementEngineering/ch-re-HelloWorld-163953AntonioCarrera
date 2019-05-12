@@ -214,6 +214,30 @@ REQUERIMIENTOS NO FUNCIONALES
 
 BPM
 
+PROCESO:
+
+1.-selceccion de banco o bancos
+
+2.-introduccion de los datos solicitados (usuario,contraseña,numero de cuenta,etc.)
+
+3.-selccion de tramite (reporte,cita,etc)
+
+4.-recepcion de la solicitud
+
+5.-analisis de solicitud
+
+6.-se envia la solicitud al gerente
+
+7.-el gerente analiza la solicitud 
+
+8.-el gerente envia los datos del cliente a buro de credito para su analisis
+
+9.-el buro se encarga de notificar al gerente si es apto el cliente
+
+10.-el gerente notifica al ejecutivo si es apto o no el cliente
+
+11.-el ejecutivo hace la notificacion al cliente si su solicitud fue o no aceptada.
+
 <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/BancoMovil.jpg">
 
 <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Bancos%20Disponibles.jpg">
