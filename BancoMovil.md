@@ -14,7 +14,6 @@ BancoMovil
 
 -Desarrollaremos también un sistema para computadora ,que tendrán instaladas las pc’s de las sucursales donde se enviaran las peticiones de tramites que tienen los clientes,cabe destacar que en su base de datos obviamente ya se encontraran los datos de sus clientes con información  como nombre,dirección y numero de teléfono .
 
--Por ultimo se desarrollara un software mas pequeño para el banco ,que consistirá en un altas bajas y cambios en cuestión a las tarjetas que expide,asi el banco llevara un control de sus tarjetas y sabra cuando necesitaría pedir mas para evitar la falta de tarjetas.
 
 Referencias
 
@@ -37,6 +36,43 @@ Visión general
 Con la realizacion  de nuestra app buscamos la reduccion de filas y acumulamiento de clientes en la sucursal ya que la mayoria son bancos pequenos, para solo hacer tramites que hay veces que son muy cortos y es inutil esperar tanto tiempo,asi se agilizara todo lo que tenga que ver con el banco, asi, beneficiando al banco como a los clientes.
 
 Descripción general
+
+BPM
+
+PROCESO:
+
+1.-selceccion de banco o bancos
+
+2.-introduccion de los datos solicitados (usuario,contraseña,numero de cuenta,etc.)
+
+3.-selccion de tramite (reporte,cita,etc)
+
+4.-recepcion de la solicitud
+
+5.-analisis de solicitud
+
+6.-se envia la solicitud al gerente
+
+7.-el gerente analiza la solicitud 
+
+8.-el gerente envia los datos del cliente a buro de credito para su analisis
+
+9.-el buro se encarga de notificar al gerente si es apto el cliente
+
+10.-el gerente notifica al ejecutivo si es apto o no el cliente
+
+11.-el ejecutivo hace la notificacion al cliente si su solicitud fue o no aceptada.
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/BancoMovil.jpg">
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Bancos%20Disponibles.jpg">
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Datos%20a%20Ingresar.jpg">
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Tramites%20Disponibles.jpg">
+
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Analisis.jpg">
+
 
 Perspectiva del Producto
 
@@ -211,7 +247,6 @@ REQUERIMIENTOS NO FUNCIONALES
 
 -Mantenimiento del software y nuestra aplicacion ,esta estara programada para darle mantenimento automaticamente.
 
-
 BPM
 
 PROCESO:
@@ -237,13 +272,3 @@ PROCESO:
 10.-el gerente notifica al ejecutivo si es apto o no el cliente
 
 11.-el ejecutivo hace la notificacion al cliente si su solicitud fue o no aceptada.
-
-<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/BancoMovil.jpg">
-
-<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Bancos%20Disponibles.jpg">
-
-<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Datos%20a%20Ingresar.jpg">
-
-<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Tramites%20Disponibles.jpg">
-
-<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/BPM/Analisis.jpg">
