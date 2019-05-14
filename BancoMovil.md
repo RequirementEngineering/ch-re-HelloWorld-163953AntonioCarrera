@@ -1,46 +1,46 @@
 Table of contents
 
-Introduction
+1.Introduction
 
-Purpose
+  *Purpose
 
-Scope
+  *Scope
 
-Definitions, acronyms, and abbreviations
+  *Definitions, acronyms, and abbreviations
 
-References
+  *References
 
-Overview
+  *Overview
 
-Overrall description
+2.Overrall description
 
-Business Managment Process
+  *Business Managment Process
 
-Product perspective
+  *Product perspective
 
-Product Functions
+    *Product Functions
 
-User characteristics
+  *User characteristics
 
-Constrains
+  *Constrains
 
-Specific requirements
+3.Specific requirements
 
-Interface
+  *Interface
 
-Requirements
+  *Requirements
 
-Functional requirements
+    *Functional requirements
 
-Non functional requirements
+    *Non functional requirements
 
-User requirements
+    *User requirements
 
-System requirements
+    *System requirements
 
-*Appendices
+4.Appendices
 
-Elicitation process
+  *Elicitation process
 
 Introducción 
 
