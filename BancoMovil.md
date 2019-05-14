@@ -1,27 +1,44 @@
 Table of contents
+
 Introduction
 
 Purpose
+
 Scope
+
 Definitions, acronyms, and abbreviations
+
 References
+
 Overview
+
 Overrall description
 
 Business Managment Process
+
 Product perspective
+
 Product Functions
+
 User characteristics
+
 Constrains
+
 Specific requirements
 
 Interface
+
 Requirements
+
 Functional requirements
+
 Non functional requirements
+
 User requirements
+
 System requirements
-Appendices
+
+*Appendices
 
 Elicitation process
 
