@@ -162,17 +162,21 @@ Hay 5 tipos de usuarios
  Gerente      | la funcion del gerente es checar movimientos y todo los tramites realizados ya sean diariamente,semanalmente o                           mensualmente segun lo requiera el banco.
  Buro         | La funcion del buro de credito es checar que el cliente no se encuentre en su base de datos con adeudo en alguna                         institucion bancaria,inmobiliaria etc,,en caso de que el cliente este o no este en buro,este le notificara al banco la                   investigacion sobre el cliente para decidir si es apto o no para los prestamos.
  
-1.	Cliente: El usuario realizara el trámite necesario desde la app instalada en su Smartphone o tableta.
 
-2.	Ejecutivo: El ejecutivo recibirá la notificación sobre el tramite solicitado por el cliente y lo realizara lo más pronto posible.
-
-3.	Repartidor: La función de este es repartir las tarjetas que soliciten por robo o extravio,este solo repartirá a las zonas cercanas a la sucursal donde fue expedida la misma.
-
-4.  Gerente:la funcion del gerente es checar movimientos y todo los tramites realizados ya sean diariamente,semanalmente o mensualmente segun lo requiera el banco.
-
-5.  Buro de Credito.La funcion del buro de credito es checar que el cliente no se encuentre en su base de datos con adeudo en alguna institucion bancaria,inmobiliaria etc,,en caso de que el cliente este o no este en buro,este le notificara al banco la investigacion sobre el cliente para decidir si es apto o no para los prestamos.
 
 <img src="https://raw.githubusercontent.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/master/Use%20Case/bancomovil.png">
+
+Usuario  | Descripcion
+ ----- | -------------
+ Nombre | Banco Movil
+ Autor | Marco Antonio Carrera Jaquez
+ Fecha | 14/05/2019
+ Descripcion |La aplicacion tendra las opciones necesarias para hacer tramites desde celular o tableta,asi como consulta de saldos
+ Actores | cliente,ejecutivo,gerente,repartidor,buro de credito
+ Condiciones Previas | Para la utilizacion de la app el cliente tiene que tenerla en su telefono y contar con cuenta en el banco obviamente
+ Flujo | *Cliente.-Ingresa a la aplicacion e interactua para decidir que tramite desea, *Ejecutivo.- Recibe la solicitud de tramite para poder realizarla lo mas pronto bosible,*Buro.- checa el estatus del cliente,*Gerente.-Autoriza o no el credito o prestamo. *Repartidor.- reparte las tarjetas  
+ Flujo alternativo | En el caso que se rechaze algun tramite el ejecutivo notificara al cliente
+ Post-condiciones | Se guardaran todos los tramites en la base de datos del sistema
 
 Restricciones
 
