@@ -187,7 +187,7 @@ Usuario  | Descripcion
  Nombre | Cliente
  Autor | Marco Antonio Carrera Jaquez
  Fecha | 14/05/2019
- Descripcion |El cliente ingresara a la aplicacion e interactuara con los tramites a realizar o estados de cuenta etc,
+ Descripcion | El cliente ingresara a la aplicacion e interactuara con los tramites a realizar o estados de cuenta etc,
  Actores | Cliente
  Condiciones Previas | Para la utilizacion de la app el cliente tiene que tenerla en su telefono y contar con cuenta en el banco obviamente
  Flujo | *El cliente entra a la aplicacion ,ingresa, si es la primera vez le pedira todos sus datos ,elige banco o bancos y listo ya no hay necesidad de reingresar ningun dato a menos que instale la aplicacion en un telefono distinto.cada vez qyue realize un tramite debera esperar la respuesta del banco via telefonica,sms o correo electronico.    
@@ -210,7 +210,7 @@ Usuario  | Descripcion
   <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/use%20case%203.png">
   
     
-    Usuario  | Descripcion
+ Usuario  | Descripcion
  -----       | -------------
  Nombre      | Gerente
  Autor       | Marco Antonio Carrera Jaquez
@@ -223,6 +223,7 @@ Usuario  | Descripcion
  
   <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/use%20case%204%20(1).png">
  
+ Usuario  | Descripcion
  Nombre | Buro de Credito
  Autor  | Marco Antonio Carrera Jaquez
  Fecha  | 14/05/2019
