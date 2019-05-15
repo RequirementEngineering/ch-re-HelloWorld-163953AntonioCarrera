@@ -220,7 +220,7 @@ Usuario  | Descripcion
  
  CASO DE USO 4
  
-  <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/use%20case%204.png">
+  <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/use%20case%204%20(1).png">
  
  Nombre | Buro de Credito
  Autor  | Marco Antonio Carrera Jaquez
