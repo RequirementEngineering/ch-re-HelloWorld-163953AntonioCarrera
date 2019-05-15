@@ -224,6 +224,7 @@ Usuario  | Descripcion
   <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/use%20case%204%20(1).png">
  
  Usuario  | Descripcion
+ -----    | -------------
  Nombre | Buro de Credito
  Autor  | Marco Antonio Carrera Jaquez
  Fecha  | 14/05/2019
