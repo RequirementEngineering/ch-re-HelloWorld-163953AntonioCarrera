@@ -220,11 +220,11 @@ Usuario  | Descripcion
  
  CASO DE USO 4
  
-  <img src="">
+  <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/use%20case%204.png">
  
  Nombre | Buro de Credito
- Autor | Marco Antonio Carrera Jaquez
- Fecha | 14/05/2019
+ Autor  | Marco Antonio Carrera Jaquez
+ Fecha  | 14/05/2019
  Descripcion |El buro de credito checara el status del cliente para determinar si el cliente es apto o no para el tramite realizado(solo hipotecas o prestamos)
  Actores | Gerente,Buro
  Flujo | *El buro de credito checara el status del cliente para determinar si el cliente es apto o no para el tramite realizado(solo hipotecas o prestamos) ,posteriormente el buro informara al gerente correspondiete la decision.
