@@ -154,7 +154,14 @@ Características del Usuario
 
 Hay 5 tipos de usuarios
 
-
+ Usuario  | Descripcion
+ -------  | -------------
+ Cliente      | El usuario realizara el trámite necesario desde la app instalada en su Smartphone o tableta.
+ Ejecutivo    | El ejecutivo recibirá la notificación sobre el tramite solicitado por el cliente y lo realizara lo más pronto posible.
+ Repartidor   | La función de este es repartir las tarjetas que soliciten por robo o extravio,este solo repartirá a las zonas cercanas                   a la sucursal donde fue expedida la misma.
+ Gerente      | la funcion del gerente es checar movimientos y todo los tramites realizados ya sean diariamente,semanalmente o                           mensualmente segun lo requiera el banco.
+ Buro         | La funcion del buro de credito es checar que el cliente no se encuentre en su base de datos con adeudo en alguna                         institucion bancaria,inmobiliaria etc,,en caso de que el cliente este o no este en buro,este le notificara al banco la                   investigacion sobre el cliente para decidir si es apto o no para los prestamos.
+ 
 1.	Cliente: El usuario realizara el trámite necesario desde la app instalada en su Smartphone o tableta.
 
 2.	Ejecutivo: El ejecutivo recibirá la notificación sobre el tramite solicitado por el cliente y lo realizara lo más pronto posible.
