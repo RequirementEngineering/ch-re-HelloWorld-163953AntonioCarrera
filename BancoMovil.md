@@ -162,9 +162,9 @@ Hay 5 tipos de usuarios
  Gerente      | la funcion del gerente es checar movimientos y todo los tramites realizados ya sean diariamente,semanalmente o                           mensualmente segun lo requiera el banco.
  Buro         | La funcion del buro de credito es checar que el cliente no se encuentre en su base de datos con adeudo en alguna                         institucion bancaria,inmobiliaria etc,,en caso de que el cliente este o no este en buro,este le notificara al banco la                   investigacion sobre el cliente para decidir si es apto o no para los prestamos.
  
+CASOS DE USO
 
-
-<img src="https://raw.githubusercontent.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/master/Use%20Case/bancomovil.png">
+<img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/bancomovil.png">
 
 Usuario  | Descripcion
  ----- | -------------
@@ -177,6 +177,58 @@ Usuario  | Descripcion
  Flujo | *Cliente.-Ingresa a la aplicacion e interactua para decidir que tramite desea, *Ejecutivo.- Recibe la solicitud de tramite para poder realizarla lo mas pronto bosible,*Buro.- checa el estatus del cliente,*Gerente.-Autoriza o no el credito o prestamo. *Repartidor.- reparte las tarjetas  
  Flujo alternativo | En el caso que se rechaze algun tramite el ejecutivo notificara al cliente
  Post-condiciones | Se guardaran todos los tramites en la base de datos del sistema
+ 
+ CASO DE USO 1 
+ 
+ <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/Use%20case%201.png">
+ 
+ Usuario  | Descripcion
+ ----- | -------------
+ Nombre | Cliente
+ Autor | Marco Antonio Carrera Jaquez
+ Fecha | 14/05/2019
+ Descripcion |El cliente ingresara a la aplicacion e interactuara con los tramites a realizar o estados de cuenta etc,
+ Actores | Cliente
+ Condiciones Previas | Para la utilizacion de la app el cliente tiene que tenerla en su telefono y contar con cuenta en el banco obviamente
+ Flujo | *El cliente entra a la aplicacion ,ingresa, si es la primera vez le pedira todos sus datos ,elige banco o bancos y listo ya no hay necesidad de reingresar ningun dato a menos que instale la aplicacion en un telefono distinto.cada vez qyue realize un tramite debera esperar la respuesta del banco via telefonica,sms o correo electronico.    
+
+ CASO DE USO 2 
+ 
+  <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/use%20case%202.png">
+  
+   Usuario  | Descripcion
+ ----- | -------------
+ Nombre | Ejecutivo
+ Autor | Marco Antonio Carrera Jaquez
+ Fecha | 14/05/2019
+ Descripcion |El ejecutivo ingresara al software bancario, revisara la peticion del usuario,revisara su base de datos,despues este enviara la peticion al  gerente.
+ Actores | Ejecutivo,Gerente
+ Flujo | *El ejecutivo ingresara al software bancario, revisara la peticion del usuario,revisara su base de datos,despues este enviara la peticion al  gerente.el ejecutivo esperara que el gerente autorize o no para dar aviso a el cliente el resultado de su peticion.
+  
+ CASO DE USO 3
+ 
+  <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/use%20case%203.png">
+  
+    Usuario  | Descripcion
+ ----- | -------------
+ Nombre | Gerente
+ Autor | Marco Antonio Carrera Jaquez
+ Fecha | 14/05/2019
+ Descripcion |El Gerente revisara las peticiones enviadas por el ejecutivo 
+ Actores | Ejecutivo,Gerente,Buro
+ Flujo | *El Gerente revisara las peticiones enviadas por el ejecutivo,y posteriormente enviara los datos al buro de credito para checar el status del cliente.
+ 
+ CASO DE USO 4
+ 
+  <img src="">
+ 
+ Nombre | Buro de Credito
+ Autor | Marco Antonio Carrera Jaquez
+ Fecha | 14/05/2019
+ Descripcion |El buro de credito checara el status del cliente para determinar si el cliente es apto o no para el tramite realizado(solo hipotecas o prestamos)
+ Actores | Gerente,Buro
+ Flujo | *El buro de credito checara el status del cliente para determinar si el cliente es apto o no para el tramite realizado(solo hipotecas o prestamos) ,posteriormente el buro informara al gerente correspondiete la decision.
+ 
 
 Restricciones
 
