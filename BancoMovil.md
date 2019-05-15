@@ -210,13 +210,13 @@ Usuario  | Descripcion
   <img src="https://github.com/RequirementEngineering/ch-re-HelloWorld-163953AntonioCarrera/blob/master/Use%20Case/use%20case%203.png">
   
     Usuario  | Descripcion
- ----- | -------------
- Nombre | Gerente
- Autor | Marco Antonio Carrera Jaquez
- Fecha | 14/05/2019
+ -----       | -------------
+ Nombre      | Gerente
+ Autor       | Marco Antonio Carrera Jaquez
+ Fecha       | 14/05/2019
  Descripcion |El Gerente revisara las peticiones enviadas por el ejecutivo 
- Actores | Ejecutivo,Gerente,Buro
- Flujo | *El Gerente revisara las peticiones enviadas por el ejecutivo,y posteriormente enviara los datos al buro de credito para checar el status del cliente.
+ Actores     | Ejecutivo,Gerente,Buro
+ Flujo       | *El Gerente revisara las peticiones enviadas por el ejecutivo,y posteriormente enviara los datos al buro de credito para checar el status del cliente.
  
  CASO DE USO 4
  
